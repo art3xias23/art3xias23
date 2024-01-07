@@ -6,7 +6,7 @@ Hiya, in this profile you'll find me following tutorials, experimenting with new
 
 ### Nowadays
 Currently spending as much time as necessary developing a blog where I wish to post about problems I've solved, how I've solved them. I'm relatively young at css, so I'm taking my time lerning vanilla css and possibly moving to either bootstrap or tailwing. At this moment I've chosen a techstack of 
-- go  <img src="https://github.com/art3xias23/art3xias23/tree/main/img/golng.ico" alt="test"/>
+- go  <img src="https://github.com/art3xias23/art3xias23/tree/main/img/golang.ico" alt="test"/>
 - [a-h/templ](https://github.com/a-h/templ) 
 - htmx </> 
 - mongodb ![alt text][mongo]
