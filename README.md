@@ -1,5 +1,8 @@
 # art3xias23's Personal Profile
 
+Reference-style: 
+![alt text][go]
+
 ### Intro 
 
 Hiya, in this profile you'll find me following tutorials, experimenting with new languages, frameworks and developing some projects which are of use to me or I'm passionate about.
@@ -20,6 +23,6 @@ Some of the things I wish to learn or do in the future are:
 - As part of the blog I'm planning on studying latex as I've found fun combinations with Latex, snippets and vim which could make blog writing a real joy at first glance
 
 
-[go]: https://github.com/art3xias23/art3xias23/tree/main/img/go.ico
+[go]: https://github.com/art3xias23/art3xias23/tree/main/img/golng.ico "Logo Title Text 2"
 [lisp]: https://github.com/art3xias23/art3xias23/tree/main/img/lisp.ico
 [mongo]: https://github.com/art3xias23/art3xias23/tree/main/img/mongodb.ico
