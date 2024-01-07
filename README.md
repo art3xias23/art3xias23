@@ -20,6 +20,6 @@ Some of the things I wish to learn or do in the future are:
 - As part of the blog I'm planning on studying latex as I've found fun combinations with Latex, snippets and vim which could make blog writing a real joy at first glance
 
 
-[go]: https://github.com/art3xias23/art3xias23/img/go.ico
-[lisp]: https://github.com/art3xias23/art3xias23/img/lisp.ico
-[mongo]: https://github.com/art3xias23/art3xias23/img/mongodb.ico
+[go]: https://github.com/art3xias23/art3xias23/tree/main/img/go.ico
+[lisp]: https://github.com/art3xias23/art3xias23/tree/main/img/lisp.ico
+[mongo]: https://github.com/art3xias23/art3xias23/tree/main/img/mongodb.ico
