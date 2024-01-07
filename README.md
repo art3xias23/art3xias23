@@ -1,15 +1,12 @@
 # art3xias23's Personal Profile
 
-Reference-style: 
-![alt text][go]
-
 ### Intro 
 
 Hiya, in this profile you'll find me following tutorials, experimenting with new languages, frameworks and developing some projects which are of use to me or I'm passionate about.
 
 ### Nowadays
 Currently spending as much time as necessary developing a blog where I wish to post about problems I've solved, how I've solved them. I'm relatively young at css, so I'm taking my time lerning vanilla css and possibly moving to either bootstrap or tailwing. At this moment I've chosen a techstack of 
-- go ![alt text][go]  
+- go  <img src="https://github.com/art3xias23/art3xias23/tree/main/img/golng.ico" alt="test"/>
 - [a-h/templ](https://github.com/a-h/templ) 
 - htmx </> 
 - mongodb ![alt text][mongo]
