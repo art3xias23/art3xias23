@@ -5,21 +5,21 @@
 Hiya, in this profile you'll find me following tutorials, experimenting with new languages, frameworks and developing some projects which are of use to me or I'm passionate about.
 
 ### Nowadays
-Currently spending as much time as necessary developing a blog where I wish to post about problems I've solved, how I've solved them. I'm relatively young at css, so I'm taking my time lerning vanilla css and possibly moving to either bootstrap or tailwind. At this moment I've chosen a techstack of 
-- go  <img src="https://raw.githubusercontent.com/art3xias23/art3xias23/master/assets/golang.png" alt="test"/>
-- [a-h/templ](https://github.com/a-h/templ) 
-- htmx </> 
-- mongodb ![alt text][mongo]
+Currently I've given myself a goal to grind Leetcode until I feel ready to possibly attempt an interview at a prestiguous company. If that does not happen, I would have still learned algorith patterns and data structures to a decent amount.
+In the (https://github.com/art3xias23/latex-journey)[Latex-Journey] project you will find a Latex document which will be comprised of .NET Interview Questions and a grouping of Data Structures and Algorithms information.
+
+My leetcode profile can be found (https://leetcode.com/u/art3xias/)[here]
+I also occasionally use the (https://github.com/art3xias23/leetcode-algos)[Algos) project to test and experiment wth csharp Algo solutions.
 
 ### Future Aims
 Some of the things I wish to learn or do in the future are: 
 
+- ~~Spend time studying lisp~~
+- ~~Spend time studying go~~
+- ~~Create a blog in go~~
+- Compile a document with all the questions I needed to brush on in csharp during 2024
+- Complete all 169 questions on (https://www.techinterviewhandbook.org/grind75)[Grind 75]
+- Go into C as through the Texas C course I found (https://www.edx.org/learn/embedded-systems/the-university-of-texas-at-austin-embedded-systems-shape-the-world-microcontroller-input-output)[here]
 - Go into closure as the brief time I've spent [learning Common Lisp] (https://github.com/art3xias23/clisp-ltk-tutorials) ![alt text][lisp]   has been joyful.
-- Go into C as I've been meaning to write an embedded system which would check the current coming in from the electrical network and start a petrol generator when there is no current
-- Definitely learn awk, sed, grep and jq as I find them essential and my limited knowledge does not cut it at times.
-- As part of the blog I'm planning on studying latex as I've found fun combinations with Latex, snippets and vim which could make blog writing a real joy at first glance
+- Definitely learn awk, sed, grep and jq and some Powershell as I find them essential and my limited knowledge does not cut it at times.
 
-
-[go]: https://github.com/art3xias23/art3xias23/tree/main/img/golng.ico "Logo Title Text 2"
-[lisp]: https://github.com/art3xias23/art3xias23/tree/main/img/lisp.ico
-[mongo]: https://github.com/art3xias23/art3xias23/tree/main/img/mongodb.ico
