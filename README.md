@@ -5,7 +5,7 @@
 Hiya, in this profile you'll find me following tutorials, experimenting with new languages, frameworks and developing some projects which are of use to me or I'm passionate about.
 
 ### Nowadays
-Currently I've given myself a goal to grind Leetcode until I feel ready to possibly attempt an interview at a prestiguous company. If that does not happen, I would have still learned algorith patterns and data structures to a decent amount.
+Currently I've given myself a goal to grind Leetcode until I feel ready to possibly attempt an interview at a prestiguous company. If that does not happen, I would have still learned algorithm patterns and data structures to a decent amount.
 In the (https://github.com/art3xias23/latex-journey)[Latex-Journey] project you will find a Latex document which will be comprised of .NET Interview Questions and a grouping of Data Structures and Algorithms information.
 
 My leetcode profile can be found (https://leetcode.com/u/art3xias/)[here]
